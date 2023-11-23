@@ -59,4 +59,3 @@ If the LCD does not display readings, ensure it's correctly wired and initialize
 Future Enhancements
 Improve sensor accuracy.
 Integrate with popular smart home systems.
-I
